@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PhotoBLog</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create account</string>
+    <string name="photo_blog">Photo Blog</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
